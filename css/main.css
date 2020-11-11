@@ -99,6 +99,7 @@ textarea {
 html {
   height: 100%;
   background: url(../img/bkgd8.jpg) no-repeat center center fixed;
+  background-size: cover;
    /* set height to 100% - these are important for allowing content to vertically align */
 }
 
